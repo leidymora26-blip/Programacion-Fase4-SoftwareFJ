@@ -113,31 +113,15 @@ Software_FJ/
     README.md
     software_fj.log (generado durante la ejecución)
 
-## 7. Tecnologías utilizadas
 
-- Python 3.13.
-- Tkinter.
-- Visual Studio Code.
-- GitHub.
-- ABC.
-- Logging.
-- Pathlib.
-- Functools.
 
-## 8. Requisitos de ejecución
-
-- Tener Python 3 instalado.
-- Contar con Tkinter.
-- Descargar los archivos del repositorio.
-- No se requiere un motor de base de datos.
-
-## 9. Ejecución del programa
+## 7. Ejecución del programa
 
 Abrir una terminal en la carpeta del proyecto y ejecutar:
 
     python main.py
 
-## 10. Ejecución de las pruebas
+## 8. Ejecución de las pruebas
 
 Para ejecutar las 20 operaciones de simulación:
 
@@ -147,20 +131,10 @@ Las pruebas incluyen operaciones válidas e inválidas,
 con el propósito de verificar la estabilidad y el
 manejo de excepciones del sistema.
 
-## 11. Registro de eventos
+## 9. Registro de eventos
 
 El archivo software_fj.log permite consultar los
 eventos y errores registrados durante la ejecución
 de la aplicación.
 
-## 12. Conclusión
 
-El desarrollo de Software FJ permite aplicar los
-principios de la programación orientada a objetos
-en un contexto empresarial simulado, integrando
-validaciones, manejo de excepciones y una interfaz
-gráfica para facilitar la gestión de la información.
-
----
-
-Proyecto académico - UNAD - 2026.
